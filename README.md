@@ -3,11 +3,11 @@ Project for Database (Fourth Semester - AGH UST)
 
 Prepared by Min Khant Soe Oke, Kaung Sithu
 
-- Min Khant Soe Oke
+ Min Khant Soe Oke
 - oke@student.agh.edu.pl
 - 414176
 
-- Kaung Sithu
+ Kaung Sithu
 - sithu@student.agh.edu.pl
 - 414175
 
