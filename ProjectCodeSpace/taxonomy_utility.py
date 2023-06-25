@@ -4,8 +4,8 @@ import psycopg2
 def connect_to_db():
     conn = psycopg2.connect(
         dbname="taxonomy_db",
-        user="your_username",
-        password="your_password",
+        user="sithukaung",
+        password="KaungSithu",
         host="localhost",
         port="5432"
     )
